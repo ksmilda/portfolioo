@@ -2,7 +2,7 @@
 
 # Portfolio
 This is ksmilda's portfolio, contains my data analytics portfolio and other projects ranging from MySQL, Python, R, Looker, and Excel.
-<img width="940" height="544" alt="image" src="https://github.com/user-attachments/assets/67ea0eaa-be9f-42a9-a24b-7809c54e8d82" />
+<img width="540" height="144" alt="image" src="https://github.com/user-attachments/assets/67ea0eaa-be9f-42a9-a24b-7809c54e8d82" />
 
 
 ## MySQL
