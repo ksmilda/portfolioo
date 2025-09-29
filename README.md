@@ -8,4 +8,4 @@ This is ksmilda's portfolio, contains my data analytics portfolio and other proj
    + E-commerce Data from kaggle : Data cleaning and data exploration using MySQL. Link to [project](https://github.com/ksmilda/MySQL_Ecommerce-Data). [Source dataset](https://www.kaggle.com/datasets/nabihazahid/e-commerce-customer-insights-and-churn-dataset).
 
 ## Python
-   + Bank segmentation data from kaggle : Data clustering using PCA and K-Means. Link to [project](https://github.com/ksmilda/Python_Bank-segmentation). [Source dataset](https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights).
+   + Bank segmentation data from kaggle : Data clustering using PCA and K-Means, built with Python (pandas, scikit-learn, matplotlib), the model identifies two major customer groups to support marketing strategies. Link to [project](https://github.com/ksmilda/Python_Bank-segmentation). [Source dataset](https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights).
