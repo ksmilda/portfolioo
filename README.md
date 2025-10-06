@@ -13,4 +13,4 @@ This is ksmilda's portfolio, contains my data analytics portfolio and other proj
    + Bank segmentation data from kaggle : Data clustering using PCA and K-Means, built with Python (pandas, scikit-learn, matplotlib), the model identifies two major customer groups to support marketing strategies. Link to [project](https://github.com/ksmilda/Python_Bank-segmentation). [Source dataset](https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights).
 
 ## Excel
-   + Airbnb listings in Naples, Italy : Data cleaning, processing, and visualization using Microsoft Excel. Link to [project](https://github.com/ksmilda/Excel_Airbnb). [Source dataset](https://insideairbnb.com/).
+   + Airbnb listings in Naples, Italy : Data cleaning, data processing, and design an interactive Microsoft Excel dashboard using PivotTables, charts, and slicers to uncover insights about Airbnb market behavior. Link to [project](https://github.com/ksmilda/Excel_Airbnb). [Source dataset](https://insideairbnb.com/).
