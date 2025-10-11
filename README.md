@@ -7,11 +7,24 @@ This repository is a collection of projects I’ve completed using different dat
 </p>
 
 ## MySQL
-   + [E-commerce Data Exploration](https://github.com/ksmilda/MySQL_Ecommerce-Data) : Data cleaning and data exploration on E-commerce dataset to uncover customer behavior and trend using MySQL. [Source dataset](https://www.kaggle.com/datasets/nabihazahid/e-commerce-customer-insights-and-churn-dataset).
-
+   + [E-commerce Data Exploration](https://github.com/ksmilda/MySQL_Ecommerce-Data) : Data cleaning and data exploration on E-commerce dataset to uncover customer behavior and trend using MySQL.
+     
 ## Python
-   + [Bank Customers Segmentation](https://github.com/ksmilda/Python_Bank-segmentation) : Data clustering using PCA and K-Means, built with Python (pandas, scikit-learn, matplotlib), the model identifies two major customer groups to support marketing strategies. [Source dataset](https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights).
+   + [Bank Customers Segmentation](https://github.com/ksmilda/Python_Bank-segmentation) : Data clustering using PCA and K-Means, built with Python (pandas, scikit-learn, matplotlib), the model identifies two major customer groups to support marketing strategies. 
 
 ## Excel
 Projects focused on dashboards, data cleaning, and descriptive analysis using Excel.
-   + [Airbnb listings Excel Dashboard](https://github.com/ksmilda/Excel_Airbnb) : Data cleaning, data processing, and design an interactive Microsoft Excel dashboard using PivotTables, charts, and slicers to uncover insights about Airbnb market behavior. [Source dataset](https://insideairbnb.com/).
+   + [Airbnb listings Excel Dashboard](https://github.com/ksmilda/Excel_Airbnb) : Data cleaning, data processing, and design an interactive Microsoft Excel dashboard using PivotTables, charts, and slicers to uncover insights about Airbnb market behavior. 
+
+
+## About This Portfolio
+Each project helped me to buld stronger skills in:
+   * Turning raw data into clear visual stories;
+   * Finding insights that support decisions;
+   * Communicating results effectively through dashboard and reports;
+And I plan to keep expanding this portfolio as I explore new tools and datsets.
+
+## Contact
+Let's connect!
+   * LinkedIn : [Milda S](linkedin.com/in/milda-s-028416351).
+   * Email : ks.milda.ks@gmail.com
